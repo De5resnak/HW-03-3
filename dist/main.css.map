@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;IACI,2BAA2B;AAC/B,C","sources":["webpack://test/./src/stile.css"],"sourcesContent":[".body {\r\n    background-color: lightgray;\r\n}"],"names":[],"sourceRoot":""}
